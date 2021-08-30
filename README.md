@@ -52,12 +52,13 @@ After keeping all the cryptocurrencies that are being traded, dropping the redun
 
 ### Reducing Data Dimensions Using PCA
 
+Applying the Principal Component Analysis (PCA) algorithm, we reduced the dimensions of the X DataFrame to three principal components and placed these dimensions in a new DataFrame (Figur 3).
 
 #### Figure :  
 
 ----------------------------
 
-![]()
+![2-pca_dataFrame.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/2-pca_dataFrame.png)
 
 ----------------------------
 
