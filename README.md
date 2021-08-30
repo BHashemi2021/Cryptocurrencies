@@ -19,6 +19,8 @@ Blockchain technology is an open source technology, meaning any software develop
 ![blockchain.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/blockchain.png)
 
 ----------------------------
+* Image courtesy of [PwC](https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html)
+
 
 ## Purpose of the Analysis
 
