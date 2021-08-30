@@ -4,10 +4,18 @@ Unsupervised Machine Learning
 ## Background
 
 #### 1- Cryptocurency
-'Created first in 2009, Bitcoin has become a revolutionary digital currency as it enables peer-to-peer payments without a third party such as a bank. Build based on Blockchain technology, a digital public ledger (or a record-keeping system that maintains participants' identities in secure and (pseudo-)anonymous form information on each transaction) receives a unique "hash" (or identity) and is added to the end of the ledger. 
+'Created first in 2009, Bitcoin has become a revolutionary digital currency as it enables peer-to-peer payments without a third party such as a bank. Build based on Blockchain technology, a digital public ledger (or a record-keeping system that maintains participants' identities in secure and (pseudo-)anonymous form information on each transaction) receives a unique "hash" (or identity) and is added to the end of the ledger (Figure 1). 
 
 #### 2- A myriad of different cryptocurrencies
 Blockchain technology is an open source technology, meaning any software developer can use the original source code and create something new. Developers have done just that. It is estimated to be more than 4,500 different cryptocurrencies to date, and the figure keeps increasing. In 2017, the number of cryptos surpassed 1,000' (1).  
+
+Figure 1: How blockchain works
+
+----------------------------
+
+![blockchain.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/blockchain.png)
+
+----------------------------
 
 ## Purpose of the Analysis
 
@@ -27,17 +35,45 @@ This task consists of four technical analysis, as they follow:
 ### Preprocessing the Data for PCA
 
 
+Figure :  
+
+----------------------------
+
+![]()
+
+----------------------------
 
 ### Reducing Data Dimensions Using PCA
 
 
+Figure :  
+
+----------------------------
+
+![]()
+
+----------------------------
 
 ### Clustering Cryptocurrencies Using K-means
 
+Figure :  
+
+----------------------------
+
+![]()
+
+----------------------------
 
 ### Visualizing Cryptocurrencies Results
 
 
+Figure :  
+
+----------------------------
+
+![]()
+
+----------------------------
 
 
 ## Recommendations
