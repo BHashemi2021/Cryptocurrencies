@@ -3,12 +3,13 @@ Unsupervised Machine Learning
 
 ## Background
 
-Since its creation in 2009, Bitcoin (CRYPTO:BTC) has become a revolutionary digital currency. Because it enables peer-to-peer payments without a third party like a bank, it has set off a tidal wave of other cryptocurrencies and digital assets making use of blockchain technology. Blockchain is a digital public ledger where information on each transaction receives a unique "hash" (or identity) and is added to the end of the ledger. Bitcoin's success has put blockchain on the map and put its potential to decentralize and improve the digital economy on a path to disrupting the status quo.
+#### 1- Cryptocurency
+Created first in 2009, Bitcoin (CRYPTO:BTC) has become a revolutionary digital currency as it enables peer-to-peer payments without a third party such as a bank. Build based on Blockchain technology, a digital public ledger (or a record-keeping system that maintains participants' identities in secure and (pseudo-)anonymous form information on each transaction) receives a unique "hash" (or identity) and is added to the end of the ledger. 
 
-Why are there so many types of cryptocurrency?
-Blockchain technology is open source, meaning any software developer can use the original source code and create something new with it. Developers have done just that. There are estimated to be more than 4,500 different cryptocurrencies in circulation as of this writing, and the figure keeps increasing. For reference, it was only about four years ago that the number of cryptos surpassed 1,000 (1).  
+#### 2- A myriad of different cryptocurrencies
+Blockchain technology is an open source technology, meaning any software developer can use the original source code and create something new. Developers have done just that. It is estimated to be more than 4,500 different cryptocurrencies to date, and the figure keeps increasing. In 2017, the number of cryptos surpassed 1,000 (1).  
 
-## Purpose
+## Purpose of the Analysis
 
 We are creating an analysis for a clients who is preparing to get into the cryptocurrency market. This client is a senior manager for the Advisory Services Team at Accountability Accounting. Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they have asked us to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 
