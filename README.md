@@ -54,7 +54,7 @@ After keeping all the cryptocurrencies that are being traded, dropping the redun
 
 Applying the Principal Component Analysis (PCA) algorithm, we reduced the dimensions of the X DataFrame to three principal components and placed these dimensions in a new DataFrame (Figur 3).
 
-#### Figure :  
+#### Figure 3: Applying the Principal Component Analysis Algorithm
 
 ----------------------------
 
@@ -62,9 +62,26 @@ Applying the Principal Component Analysis (PCA) algorithm, we reduced the dimens
 
 ----------------------------
 
+
+### 
+
+Using the PCS DataFrame, we created an elbow curve using hvPlot to find the best value for K (Figure 4).
+
+
+#### Figure 4: The elbow curve. 
+
+----------------------------
+
+![elbow_plot.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/elbow_plot.png)
+
+----------------------------
+
+
 ### Clustering Cryptocurrencies Using K-means
 
-#### Figure :  
+
+
+#### Figure 5:  
 
 ----------------------------
 
