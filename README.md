@@ -16,7 +16,7 @@ We are creating an analysis for a clients who is preparing to get into the crypt
 The data we will be working with is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what we are looking for, we would use unsupervised learning. To group the cryptocurrencies, we will employ cluster algorithm. Finally we would use data visualizations to share our findings with the board.
 
 ## What We are Creating
-This new assignment consists of four technical analysis, as follows:
+This task consists of four technical analysis, as they follow:
 
         1: Preprocessing the Data for PCA
         2: Reducing Data Dimensions Using PCA
