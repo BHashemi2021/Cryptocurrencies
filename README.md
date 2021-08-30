@@ -107,13 +107,35 @@ Using the PCS DataFrame we ran the K-means algorithm to make predictions of the 
 
 
 
-Figure 7: The Thre dimensional plot of the three components 
+Figure 7: The three-dimensional plot of the components 
 
 ---------------------------
 
 ![3D_Scatter_with_Clusters.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/3D_Scatter_with_Clusters.png)
 
 ----------------------------
+
+
+Figure 8 and 9 show the total number of coins in general and the four classes we finally used for plotting.
+
+
+Figure 9: The total number of coins for each type of cryptocurrency
+
+--------------------------
+
+![4-total-coins.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/4-total-coins.png)
+
+--------------------------
+
+
+Figure 10: The final four contenders!
+
+--------------------------
+
+![Total_coins.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/Total_coins.png)
+
+--------------------------
+
 
 
 ## Recommendations
