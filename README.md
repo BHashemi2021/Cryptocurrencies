@@ -80,8 +80,8 @@ Figure :
 
 
 ## Recommendations
-The yellow outlier "BitTorrent" could be removed from dataset as its row contains only one. 
-The bulk of remaining cryptocurrencies and outliers need to be examined further by a financial expert for the kind of cryptocurrency and their function in the financial market (coin vs token). 
+The yellow outlier "BitTorrent" could be removed from dataset as its row contains only one item. 
+The bulk of remaining cryptocurrencies and outliers may still need to be examined further by a financial expert for the kind of cryptocurrency and their function in the financial market (coin vs token). 
 
 
 ### Resources
