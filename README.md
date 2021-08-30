@@ -79,13 +79,14 @@ Using the PCS DataFrame, we created an elbow curve using hvPlot to find the best
 
 ### Clustering Cryptocurrencies Using K-means
 
+Using the PCS DataFrame we ran the K-means algorithm to make predictions of the K clusters for the cryptocurrencies’ data and created a new DataFrame by concatenating the crypto_df and pcs_df DataFrames on the same columns (Figure 5).
 
 
 #### Figure 5:  
 
 ----------------------------
 
-![]()
+![3-clustered_df.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/3-clustered_df.png)
 
 ----------------------------
 
