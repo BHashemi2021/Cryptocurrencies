@@ -1,5 +1,5 @@
 
-![cryptocurrency-exchanges.jpg](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/cryptocurrency-exchanges.jpg)
+![header.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/header.png)
 
 # Cryptocurrencies
 Applying Unsupervised Machine Learning
