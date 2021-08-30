@@ -95,7 +95,7 @@ Using the PCS DataFrame we ran the K-means algorithm to make predictions of the 
  We finally, created a scatter plot with Plotly Express and hvplot to visualize the distinct groups that corresponded to the three principal components (Figure 6).
 
 
-#### Figure 6:  
+#### Figure 6: The distinct groups that corresponded to the three principal components 
 
 ----------------------------
 
