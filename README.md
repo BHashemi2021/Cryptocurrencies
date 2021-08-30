@@ -116,10 +116,10 @@ Figure 7: The three-dimensional plot of the components
 ----------------------------
 
 
-Figure 8 and 9 show the total number of coins in general and the four classes we finally used for plotting.
+Figure 8 shows the total number of coins for the major currencies.
 
 
-Figure 9: The total number of coins for each type of cryptocurrency
+Figure 8: The total number of coins for each type of cryptocurrency
 
 --------------------------
 
@@ -127,14 +127,6 @@ Figure 9: The total number of coins for each type of cryptocurrency
 
 --------------------------
 
-
-Figure 10: The final four contenders!
-
---------------------------
-
-![Total_coins.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/Total_coins.png)
-
---------------------------
 
 
 
