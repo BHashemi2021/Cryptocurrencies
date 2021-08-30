@@ -37,14 +37,14 @@ This task consists of four technical analysis, as they follow:
 
 ### Preprocessing the Data for PCA
 
+After keeping all the cryptocurrencies that are being traded, dropping the redundants columns, or the ones not used in clustering algorithms, removinge rows with at least one null value, etc, the dataframe looked like Figure 2.
 
 
-
-#### Figure :  
+#### Figure 2: The first cleaned DataFrame 
 
 ----------------------------
 
-![]()
+![1-crypto_DataFrame.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/1-crypto_DataFrame.png)
 
 ----------------------------
 
