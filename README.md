@@ -92,12 +92,24 @@ Using the PCS DataFrame we ran the K-means algorithm to make predictions of the 
 
 ### Visualizing Cryptocurrencies Results
 
- We finally, created a scatter plot with Plotly Express and hvplot to visualize the distinct groups that corresponded to the three principal components (Figure 6).
+ We finally, created a scatter plot with Plotly Express and hvplot to visualize the distinct groups that corresponded to the three principal components in 2-dimensional (Figure 6) and 3-dimensional plots (Figure 7).
 
 
 #### Figure 6: The distinct groups that corresponded to the three principal components 
 
+
 ----------------------------
+
+![hvplot.scatter_plot.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/hvplot.scatter_plot.png)
+
+
+---------------------------
+
+
+
+Figure 7: The Thre dimensional plot of the three components 
+
+---------------------------
 
 ![3D_Scatter_with_Clusters.png](https://github.com/BHashemi2021/Cryptocurrencies/blob/main/Resources/Images/3D_Scatter_with_Clusters.png)
 
