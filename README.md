@@ -6,7 +6,7 @@ Unsupervised Machine Learning
 Since its creation in 2009, Bitcoin (CRYPTO:BTC) has become a revolutionary digital currency. Because it enables peer-to-peer payments without a third party like a bank, it has set off a tidal wave of other cryptocurrencies and digital assets making use of blockchain technology. Blockchain is a digital public ledger where information on each transaction receives a unique "hash" (or identity) and is added to the end of the ledger. Bitcoin's success has put blockchain on the map and put its potential to decentralize and improve the digital economy on a path to disrupting the status quo.
 
 Why are there so many types of cryptocurrency?
-Blockchain technology is open source, meaning any software developer can use the original source code and create something new with it. Developers have done just that. There are estimated to be more than 4,500 different cryptocurrencies in circulation as of this writing, and the figure keeps increasing. For reference, it was only about four years ago that the number of cryptos surpassed 1,000.  
+Blockchain technology is open source, meaning any software developer can use the original source code and create something new with it. Developers have done just that. There are estimated to be more than 4,500 different cryptocurrencies in circulation as of this writing, and the figure keeps increasing. For reference, it was only about four years ago that the number of cryptos surpassed 1,000 (1).  
 
 ## Purpose
 
@@ -44,5 +44,16 @@ The yellow outlier "BitTorrent" could be removed from dataset as its row contain
 The bulk of remaining cryptocurrencies and outliers need to be examined further by a financial expert for the kind of cryptocurrency and their function in the financial market (coin vs token). 
 
 
+### Resources
 
+        1- Google Colab
+        2- Jupyter Notebook (Anaconda3)
+        3- Microsoft CSV files
+        4- Python 3.9 (64-bit)
+        5- VS Code Editor (64-1.58.2)
+        
+
+### References 
+
+1- Types of Cryptocurrency, Nicholas Rossolillo, Aug 12, 2021 at https://www.fool.com/investing/stock-market/market-sectors/financials/cryptocurrency-stocks/types-of-cryptocurrencies/
 
