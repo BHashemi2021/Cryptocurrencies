@@ -139,7 +139,7 @@ Figure 10: The final four contenders!
 
 
 ## Recommendations
-The yellow outlier "BitTorrent" could be removed from dataset as its row contains only one item. 
+The yellow outlier "BitTorrent" (Figures 6 and 7) could be removed from dataset as its row contains only one item. 
 The bulk of remaining cryptocurrencies and outliers may still need to be examined further by a financial expert for the kind of cryptocurrency and their function in the financial market (coin vs token). 
 
 
