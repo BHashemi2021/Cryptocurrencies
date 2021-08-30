@@ -12,7 +12,7 @@ Applying Unsupervised Machine Learning
 #### 2- A myriad of different cryptocurrencies
 Blockchain technology is an open source technology, meaning any software developer can use the original source code and create something new. Developers have done just that. It is estimated to be more than 4,500 different cryptocurrencies to date, and the figure keeps increasing. In 2017, the number of cryptos surpassed 1,000' (1).  
 
-Figure 1: How blockchain works
+#### Figure 1: How blockchain works
 
 ----------------------------
 
@@ -38,7 +38,7 @@ This task consists of four technical analysis, as they follow:
 ### Preprocessing the Data for PCA
 
 
-Figure :  
+#### Figure :  
 
 ----------------------------
 
@@ -49,7 +49,7 @@ Figure :
 ### Reducing Data Dimensions Using PCA
 
 
-Figure :  
+#### Figure :  
 
 ----------------------------
 
@@ -59,7 +59,7 @@ Figure :
 
 ### Clustering Cryptocurrencies Using K-means
 
-Figure :  
+#### Figure :  
 
 ----------------------------
 
@@ -70,7 +70,7 @@ Figure :
 ### Visualizing Cryptocurrencies Results
 
 
-Figure :  
+#### Figure :  
 
 ----------------------------
 
