@@ -13,7 +13,7 @@ Blockchain technology is an open source technology, meaning any software develop
 
 We are creating an analysis for a clients who is preparing to get into the cryptocurrency market. This client is a senior manager for the Advisory Services Team at Accountability Accounting. Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they have asked us to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 
-The data we will be working with with is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what we are looking for, we would use unsupervised learning. To group the cryptocurrencies, we will employ cluster algorithm. Finally we would use data visualizations to share our findings with the board.
+The data we will be working with is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what we are looking for, we would use unsupervised learning. To group the cryptocurrencies, we will employ cluster algorithm. Finally we would use data visualizations to share our findings with the board.
 
 ## What You're Creating
 This new assignment consists of four technical analysis, as follows:
